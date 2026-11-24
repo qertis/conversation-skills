@@ -1,0 +1,4 @@
+interface:
+  display_name: "Самопрезентация"
+  short_description: "Устная и письменная версии рассказа о себе"
+  default_prompt: "Используй $self-introduction, чтобы подготовить мой рассказ о себе для знакомства."

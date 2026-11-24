@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сильные стороны для общения"
+  short_description: "Поиск сильных сторон на конкретных примерах"
+  default_prompt: "Используй $communication-strengths, чтобы найти сильные стороны в моих рабочих примерах."

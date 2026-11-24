@@ -1,0 +1,4 @@
+interface:
+  display_name: "План нетворкинга"
+  short_description: "Цели, контакты и первые шаги для знакомств"
+  default_prompt: "Используй $networking-plan, чтобы составить план знакомств вокруг моей цели."

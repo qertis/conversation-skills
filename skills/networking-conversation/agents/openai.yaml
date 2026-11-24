@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подготовка и разбор разговора"
+  short_description: "Темы, вопросы, приглашение и разбор встречи"
+  default_prompt: "Используй $networking-conversation, чтобы подготовить вопросы и темы для встречи за кофе."

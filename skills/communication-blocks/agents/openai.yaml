@@ -1,0 +1,4 @@
+interface:
+  display_name: "Стоп-факторы в общении"
+  short_description: "Разбор установки, которая мешает общаться"
+  default_prompt: "Используй $communication-blocks, чтобы разобрать мою мысль перед первым контактом."
